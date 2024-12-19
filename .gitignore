@@ -1,0 +1,13 @@
+# Ignorer les répertoires node_modules
+node_modules/
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers de build (si nécessaire)
+build/
+dist/
+
+# Ignorer les fichiers spécifiques au système d'exploitation
+.DS_Store
+Thumbs.db
